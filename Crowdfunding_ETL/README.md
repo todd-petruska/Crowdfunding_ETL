@@ -2,7 +2,7 @@
 
 Project Contributors: N.Tivakaran, T.Petruska, M.Enyew, and G.Kalad
 
-Background:  This is a team ETL mini project focused on building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data.  The code transforms the data, creates four CSV files, which are then used to create an ERD and a table schema then the CSV file data is uploaded into a Postgres database.
+Background:  This is a team ETL mini project focused on building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and SQL to extract and transform the data.  . The goal was to extract and transform data from crowdfunding.xlsx and contacts.xlsx files, create CSV files, generate an Entity Relationship Diagram (ERD), define a table schema, and upload the data into a Postgres database.
 
 A repository labeled Crowdfunding_ETL-Project-2 contains the following files:
 * Crowdfunding SQL Tables folder containing the following files:
