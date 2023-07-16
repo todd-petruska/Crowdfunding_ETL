@@ -1,6 +1,7 @@
 # Crowdfunding_ETL
 
 Project Contributors: N.Tivakaran, T.Petruska, M.Enyew, and G.Kalad
+
 Background:  This is a team ETL mini project focused on building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data.  The code transforms the data, creates four CSV files, which are then used to create an ERD and a table schema then the CSV file data is uploaded into a Postgres database.
 
 A repository labeled Crowdfunding_ETL-Project-2 contains the following files:
